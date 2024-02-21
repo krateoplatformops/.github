@@ -1,4 +1,4 @@
-<img src="../docs/media/logo.svg" alt="Krateo Platformops" width="400">
+<img src="/docs/media/logo.svg" alt="Krateo Platformops" width="400">
 
 **Krateo Platformops** is an open-source tool platform that allows users to create any desired resource on any infrastructure they'd like. Whether you need a K8s cluster, microservice, application, pipeline, database, or anything else, Krateo has your back. The only requirement is for the resource to be descriptive via a YAML file representing the resource's _desired state_ (rings a bell? 😉).
 
