@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krateo-platformops/krateo/main/docs/media/krateo-logo-dark-mode.png">
-  <img src="https://raw.githubusercontent.com/krateo-platformops/krateo/main/docs/media/krateo-logo-light-mode.png" alt="Krateo PlatformOps" width="340">
-</picture>
+<img src="https://raw.githubusercontent.com/krateo-platformops/krateo/main/docs/media/krateo-logo.png" alt="Krateo PlatformOps" width="340">
 
 # Krateo PlatformOps has moved
 
